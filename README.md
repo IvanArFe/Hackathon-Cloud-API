@@ -40,7 +40,7 @@ Amb aquesta implementació, volem ajudar a l'usuari a que segons els seus criter
 Com s'ha comentat prèviament, el projecte pot beneficiar aquelles persones que tinguin un pressupost més just a l'hora de buscar una nova vivenda o amb criteris específics. Té un impacte bastant notable en la comarca del Tarragonès, ja que, per exemple Tarragona és un nucli urbà en constant desenvolupament i creixement i la demanda de vivenda augmenta.
 
 ## Captures i/o demo del projecte
-(Posar enllaç)
+Enllaç -> https://drive.google.com/file/d/1856pNxkgDdkgzrxnTE6zYaaaMCxCKhLH/view?usp=sharing
 
 ## Agraïments i conclusió
 Estem satsfets amb el treball desenvolupat a nivell general. Hem pogut reforçar conceptes adquirits prèviament i també hem explorat noves tecnologies, eines i frameworks. Mitjançant això, hem hagut d'adaptar l'aplicació de la millor manera possible i més viable dins el termini de temps. Ha estat tot un repte estar picant codi i desenvolupant idees durant una llarga duració de temps treballant contrarellotge. Hem pogut reforçar els nostres conceptes sobre implementacions d'APIs i la comunicació d'aquestes amb el frontend i el backend. Com a punt positiu també, hem sigut capaços de desenvolupar un petit model que prediu quin serà el cost de l'alquiler en els diferents municipis de la província a 5 anys vista. 
