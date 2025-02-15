@@ -18,6 +18,7 @@ require('./models/placesParking');
 require('./models/poblacio');
 require('./models/tassaAtur');
 require('./models/habTuristic');
+require('./models/modelPrediction');
 
 const app = require("./app");
 app.set("port", process.env.PORT || 3000);

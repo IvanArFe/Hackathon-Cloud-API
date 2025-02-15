@@ -8,6 +8,7 @@ const placesParkingController = require('../controllers/placesParkingController'
 const poblacioController = require('../controllers/poblacioController');
 const tassaAturController = require('../controllers/tassaAturController');
 const habTuristicController = require('../controllers/habTuristicController');
+const modelPredictionController = require('../controllers/modelPredictionController');
 
 /* PREU LLOGUER */
 router.get('/preusLloguer', preuLloguerController.getPreusLloguer);
@@ -44,5 +45,13 @@ router.get('/habTuristic/:id', habTuristicController.getHabTuristic);
 router.get('/habTuristicsAny/:any', habTuristicController.getHabTuristicByYear);
 router.get('/habTuristicsMes/:mes', habTuristicController.getHabTuristicByMonth);
 router.get('/habTuristicsTipus/:tipus', habTuristicController.getHabTuristicByType);
+
+/* PREDICCIONS */
+router.get('/prediccions', modelPredictionController.getModelPredictions);
+router.get('/prediccio/:id', modelPredictionController.getModelPrediction);
+router.get('/prediccionsAny/:any', modelPredictionController.getModelPredictionsByYear);
+router.get('/prediccionsTerritori/:nomterritori', modelPredictionController.getModelPredictionsByTerritori);
+router.get('/prediccionsRenda/:renda_predicha', modelPredictionController.getModelPredictionsByRenda);
+
 
 module.exports = router;
