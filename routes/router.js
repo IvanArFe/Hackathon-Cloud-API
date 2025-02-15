@@ -7,6 +7,7 @@ const paradesController = require('../controllers/paradesController');
 const placesParkingController = require('../controllers/placesParkingController');
 const poblacioController = require('../controllers/poblacioController');
 const tassaAturController = require('../controllers/tassaAturController');
+const habTuristicController = require('../controllers/habTuristicController');
 
 /* PREU LLOGUER */
 router.get('/preusLloguer', preuLloguerController.getPreusLloguer);
@@ -31,9 +32,17 @@ router.get('/placesParkingTipus/:tipus', placesParkingController.getPlaceParking
 /* POBLACIO */
 router.get('/poblacions', poblacioController.getPoblacions);
 router.get('/poblacio/:id', poblacioController.getPoblacio);
+router.get('/poblacioNom/:poblacio', poblacioController.getPoblacioByPoblacio);
 
 /* TASSA ATUR */
 router.get('/tassesAtur', tassaAturController.getTassesAtur);
 router.get('/tassaAtur/:id', tassaAturController.getTassaAtur);
+
+/* HABILITACIONS TURÍSTIQUES */
+router.get('/habTuristics', habTuristicController.getHabTuristics);
+router.get('/habTuristic/:id', habTuristicController.getHabTuristic);
+router.get('/habTuristicsAny/:any', habTuristicController.getHabTuristicByYear);
+router.get('/habTuristicsMes/:mes', habTuristicController.getHabTuristicByMonth);
+router.get('/habTuristicsTipus/:tipus', habTuristicController.getHabTuristicByType);
 
 module.exports = router;

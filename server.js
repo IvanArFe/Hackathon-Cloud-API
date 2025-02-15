@@ -17,9 +17,10 @@ require('./models/paradesEMT');
 require('./models/placesParking');
 require('./models/poblacio');
 require('./models/tassaAtur');
+require('./models/habTuristic');
 
 const app = require("./app");
 app.set("port", process.env.PORT || 3000);
-const server = app.listen(app.get("port"), () => {
+const server = app.listen(app.get("port"), 'localhost',() => {
     console.log(`Express corriendo → PORT ${server.address().port}`);
 });

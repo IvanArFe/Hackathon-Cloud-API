@@ -23,3 +23,16 @@ exports.getPoblacio = async (req, res) => {
         res.status(500).send('Error a l\'obtenir la població');
     }
 };
+
+exports.getPoblacioByPoblacio = async (req, res) => {
+    try {
+        const pobl = await poblacio.find({poblacio: req.params.poblacio});
+        if (pobl) {
+            res.json(pobl);
+        } else {
+            res.status(404).send('Població no trobada');
+        }
+    } catch (error) {
+        res.status(500).send('Error a l\'obtenir la població');
+    }
+};
