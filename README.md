@@ -49,8 +49,8 @@ Volem agraïr a tot el professorat participant per dur a terme aquesta activitat
 Projecte desenvolupat com a part de la Hackató Cloud Computing 2025, per la Universitat Rovira i Virgili i T-Systems.
 
 ## Enllaç al repositori del frontend
-[![GitHub](https://img.shields.io/badge/GitHub-<nom-usuari-github3>-black?logo=github)](https://github.com/josepLlMt20/hackato-cloud-FrontEnd.git)
-https://github.com/josepLlMt20/hackato-cloud-FrontEnd.git
+Enllaç -> [![GitHub](https://img.shields.io/badge/GitHub-<nom-usuari-github3>-black?logo=github)](https://github.com/josepLlMt20/hackato-cloud-FrontEnd.git)
+
 
 ## Enllaç al repositori que gestiona el processament de dades
-[![GitHub](https://img.shields.io/badge/GitHub-<nom-usuari-github3>-black?logo=github)](https://github.com/IvanArFe/Hackathon-Cloud-2025)
+Enllaç -> [![GitHub](https://img.shields.io/badge/GitHub-<nom-usuari-github3>-black?logo=github)](https://github.com/IvanArFe/Hackathon-Cloud-2025)
