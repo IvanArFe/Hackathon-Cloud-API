@@ -11,11 +11,7 @@ const app = express();
 
 // Middleware para parsear JSON y seguridad
 app.use(express.json());
-const corsOptions = {
-    origin: "*",
-    optionsSuccessStatus: 200,
-};
-app.use(cors(corsOptions)); // Habilitar CORS
+app.use(cors()); // Habilitar CORS
 app.use(helmet()); // Agregar encabezados de seguridad
 app.use(morgan("dev")); // Logging de las peticiones
 

@@ -21,6 +21,7 @@ require('./models/habTuristic');
 
 const app = require("./app");
 app.set("port", process.env.PORT || 3000);
-const server = app.listen(app.get("port"), 'localhost',() => {
+const server = app.listen(app.get("port"), () => {
+    console.log(`Express corriendo → IP ${server.address().address}`);
     console.log(`Express corriendo → PORT ${server.address().port}`);
 });
