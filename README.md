@@ -7,18 +7,18 @@ i la idea principal és informar sobre els preus de la vivenda en els diferents 
 ## Equip
 ### Josep Lluís Marin Trabalón
 
-[![Email](https://img.shields.io/badge/Email-<adreca-correu3>-blue)](mailto:<joseplluis.marin@estudiants.urv.cat>)
-[![GitHub](https://img.shields.io/badge/GitHub-<nom-usuari-github3>-black?logo=github)](https://github.com/<josepLlMt20>)
+[![Email](https://img.shields.io/badge/Email-<adreca-correu3>-blue)](mailto:joseplluis.marin@estudiants.urv.cat)
+[![GitHub](https://img.shields.io/badge/GitHub-<nom-usuari-github3>-black?logo=github)](https://github.com/josepLlMt20)
 
 ### Angelina Ruiz Jimenez
 
-[![Email](https://img.shields.io/badge/Email-<adreca-correu3>-blue)](mailto:<angelina.ruiz@estudiants.urv.cat>)
-[![GitHub](https://img.shields.io/badge/GitHub-<nom-usuari-github3>-black?logo=github)](https://github.com/<angeruiizz>)
+[![Email](https://img.shields.io/badge/Email-<adreca-correu3>-blue)](mailto:angelina.ruiz@estudiants.urv.cat)
+[![GitHub](https://img.shields.io/badge/GitHub-<nom-usuari-github3>-black?logo=github)](https://github.com/angeruiizz)
 
 ### Ivan Arenal Fernandez
 
-[![Email](https://img.shields.io/badge/Email-<adreca-correu3>-blue)](mailto:<ivan.arenal@estudiants.urv.cat>)
-[![GitHub](https://img.shields.io/badge/GitHub-<nom-usuari-github3>-black?logo=github)](https://github.com/<IvanArFe>)
+[![Email](https://img.shields.io/badge/Email-<adreca-correu3>-blue)](mailto:ivan.arenal@estudiants.urv.cat)
+[![GitHub](https://img.shields.io/badge/GitHub-<nom-usuari-github3>-black?logo=github)](https://github.com/IvanArFe)
 
 ## Problema abordat
 L'inconvenient que hem detectat es l'augment recent dels preus del lloguer, sobre tot a prop del nucli del municipi o on hi ha zones escolars a prop.
@@ -35,7 +35,8 @@ Amb aquesta implementació, volem ajudar a l'usuari a que segons els seus criter
 - Eines i plataformes: S'ha fet servir l'API de OpenStreetView com a eina, per a representar la zona o zones corresponents en el mapa interactiu. Hem utilitzat una base de dades MongoDB Atlas, allotjada al cloud de AWS per desar les dades necessàries per ser processades posteriorment.
 
 ## Sistema Implementat
-(implementar foto)
+![imagen](https://github.com/user-attachments/assets/980af14d-5a5d-4937-8b63-dd297aea11b1)
+
 
 ## Impacte del projecte
 Com s'ha comentat prèviament, el projecte pot beneficiar aquelles persones que tinguin un pressupost més just a l'hora de buscar una nova vivenda o amb criteris específics. Té un impacte bastant notable en la comarca del Tarragonès, ja que, per exemple Tarragona és un nucli urbà en constant desenvolupament i creixement i la demanda de vivenda augmenta.
