@@ -1,0 +1,29 @@
+{
+  "name": "hackathon-cloud-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanArFe/Hackathon-Cloud-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanArFe/Hackathon-Cloud-API/issues"
+  },
+  "homepage": "https://github.com/IvanArFe/Hackathon-Cloud-API#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-validator": "^7.2.1",
+    "helmet": "^8.0.0",
+    "mongoose": "^8.10.1",
+    "morgan": "^1.10.0"
+  }
+}
