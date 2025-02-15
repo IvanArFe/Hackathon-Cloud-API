@@ -51,6 +51,9 @@ Projecte desenvolupat com a part de la Hackató Cloud Computing 2025, per la Uni
 ## Enllaç al repositori del frontend
 Enllaç -> [![GitHub](https://img.shields.io/badge/GitHub-<nom-usuari-github3>-black?logo=github)](https://github.com/josepLlMt20/hackato-cloud-FrontEnd.git)
 
-
 ## Enllaç al repositori que gestiona el processament de dades
 Enllaç -> [![GitHub](https://img.shields.io/badge/GitHub-<nom-usuari-github3>-black?logo=github)](https://github.com/IvanArFe/Hackathon-Cloud-2025)
+
+## Enllaç al repositori del model de predicció
+Enllaç -> [![GitHub](https://img.shields.io/badge/GitHub-<nom-usuari-github3>-black?logo=github)](https://github.com/angeruiizz/ModelPreuLloguer)
+
