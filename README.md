@@ -1,6 +1,6 @@
 # Hackathon-Cloud-API
 # Nom del Prototip
-El nostre projecte, "InfoVivendaTGN", es una aplicació que tracta d'ajudar a la gent que té pensat mudar-se al nucli de Tarragona o als voltants. Està dissenyada per tot tipus de públic i la idea principal és informar sobre els preus de la vivenda en els diferents municipis del Tarragonès.
+El nostre projecte, "InfoVivendaTGN", es una aplicació que tracta d'ajudar a la gent que té pensat mudar-se al nucli de Tarragona o als voltants. Està dissenyada per tot tipus de públic i la idea principal és informar sobre els preus de la vivenda en els diferents municipis del Tarragonès. Cal recordar que això només és un prototip, i que s’han adaptat coses per poder entregar una demo mitjanament funcional.
 
 ## Equip
 ### Josep Lluís Marin Trabalón
